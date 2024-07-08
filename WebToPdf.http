@@ -1,0 +1,6 @@
+@WebToPdf_HostAddress = http://localhost:5278
+
+GET {{WebToPdf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
